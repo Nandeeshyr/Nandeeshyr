@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://shields.io" alt="Followers"/>
-<img src="https://shields.io" alt="Stars"/>
-<img src="https://shields.io" alt="Status"/>
-<img src="https://shields.io" alt="Threat"/>
-<img src="https://shields.io" alt="Linux"/>
+![GitHub followers](https://shields.io)
+![GitHub stars](https://shields.io)
+![Status](https://shields.io)
+![Threat](https://shields.io)
+![Linux](https://shields.io)
 
 </div>
 
