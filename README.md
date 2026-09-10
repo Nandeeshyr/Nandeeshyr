@@ -18,12 +18,9 @@
 ```bash
 root@nandeeshyr:~$ sudo ./boot.sh
 
-██████╗  █████╗ ████████╗███╗   ███╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗╚══██╔══╝████╗ ████║██╔══██╗████╗  ██║
-██████╔╝███████║   ██║   ██╔████╔██║███████║██╔██╗ ██║
-██╔══██╗██╔══██║   ██║   ██║╚██╔╝██║██╔══██║██║╚██╗██║
-██████╔╝██║  ██║   ██║   ██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+ ⚙️  [KERNEL] SYSTEM ARCHITECTURE INITIALIZATION v4.26
+ 📡  [NET]    SETTING UP MONITOR MODE ON INFRASTRUCTURE
+ 🔑  [AUTH]   DECRYPTION PROTOCOLS ENGAGED
 
 [✓] Loading Cyber Workspace...
 [✓] Initializing Linux Environment...
