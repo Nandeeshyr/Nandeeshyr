@@ -1,193 +1,469 @@
 <div align="center">
 
-<!-- Cyber Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=NANDEESH%20Y%20R&fontSize=42&fontColor=00FF66&stroke=00FF66&strokeWidth=2" width="100%" alt="Header Banner"/>
-
-<!-- Terminal Subtitle -->
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=700&lines=SENIOR+SYSTEMS+ENGINEER+%40+INFOSYS;PENETRATION+TESTER+%26+APPLICATION+SECURITY+ENGINEER;FULL-STACK+DEVELOPER+(SPRINGBOOT+ANGULAR+NODE+REACT)" alt="Typing SVG" />
-
-<!-- Status Radar Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_3_CONFIDENTIAL-00FF66?style=for-the-badge&logo=shield&labelColor=0d1117" alt="Clearance Level" />
-  <img src="https://img.shields.io/badge/PRIMARY_NODE-KARNATAKA_IN-00FF66?style=for-the-badge&logo=gnubash&labelColor=0d1117" alt="Location Node" />
-  <img src="https://komarev.com/ghpvc/?username=nandeeshyr&color=00FF66&style=for-the-badge&label=ACCESS_LOGS" alt="Profile Views" />
-</p>
-
-<!-- Terminal Control Panel Links -->
-<p align="center">
-  <a href="https://github.com/nandeeshyr">
-    <img src="https://img.shields.io/badge/GITHUB_TERMINAL-181717?style=flat-square&logo=github&logoColor=00FF66" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/nandeeshyr">
-    <img src="https://img.shields.io/badge/LINKEDIN_NODE-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nandeeshyr@gmail.com">
-    <img src="https://img.shields.io/badge/SECURE_MAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/badge/TRYHACKME_LABS-212C42?style=flat-square&logo=tryhackme&logoColor=00FF66" alt="TryHackMe" />
-  </a>
-</p>
-
-</div>
-
----
-
-### 🖥️ Command Center Status & Telemetry
-
-```text
-[SYSTEM BOOT SEQUENCE COMPLETE]
---------------------------------------------------------------------------------
-OPERATOR ID   : Nandeesh Y R
-CORE ROLE     : Senior Systems Engineer @ Infosys Limited
-EXPERIENCE    : 3.5+ Years Enterprise Software & Security Engineering
-ACTIVE MISSION: Build enterprise platforms. Audit web APIs. Hard-wire defenses.
---------------------------------------------------------------------------------
-```
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=nandeeshyr&show_icons=true&theme=dark&bg_color=0d1117&text_color=00FF66&icon_color=00FF66&title_color=00FF66&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandeeshyr&layout=compact&theme=dark&bg_color=0d1117&text_color=00FF66&title_color=00FF66&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=NANDEESH%20Y%20R&fontSize=48&fontColor=00FF66&animation=fadeIn&fontAlignY=38&desc=SECURE%20SYSTEMS%20%2F%20BREAK%20WEAK%20ONES&descAlignY=58&descSize=17&descColor=8AFFB8" width="100%" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=nandeeshyr&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideTitle=00FF66&dates=00FF66" width="90%" alt="GitHub Streak" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00FF66&center=true&vCenter=true&width=850&lines=Senior+Systems+Engineer+%40+Infosys;Application+Security+%7C+Penetration+Testing;Full-Stack+Engineer+%7C+Java+%7C+React+%7C+Node.js;Building+Apps+That+Are+Harder+To+Break" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://github.com/nandeeshyr">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF66" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/nandeeshyr">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" />
+</a>
+&nbsp;
+<a href="mailto:nandeeshyr@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF66" />
+</a>
+&nbsp;
+<a href="https://tryhackme.com">
+<img src="https://img.shields.io/badge/TRYHACKME-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF66" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nandeeshyr&style=for-the-badge&color=00FF66&label=PROFILE+SCANS" />
 
 </div>
 
 ---
 
-### 🎯 Security Arsenal & Technical Specs
+## `$ whoami`
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ Offensive & Defense Security</h4>
-      <ul>
-        <li><b>Web App Pentesting:</b> OWASP Top 10 Audit, Session Hijacking, Injection Vectors</li>
-        <li><b>API Security:</b> REST Hardening, JWT / OAuth2 Security Audits</li>
-        <li><b>Vulnerability Research:</b> Burp Suite Pro, Network Reconnaissance</li>
-        <li><b>System Security:</b> Linux Privilege Escalation, Bash Hardening</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Full-Stack & Systems Engineering</h4>
-      <ul>
-        <li><b>Backend:</b> Java, Spring Boot, Node.js, Express, RESTful Microservices</li>
-        <li><b>Frontend:</b> Angular, React, TypeScript, SCSS, Wavemaker</li>
-        <li><b>Databases:</b> PostgreSQL, MySQL, Schema Optimization</li>
-        <li><b>DevOps & Scripting:</b> Docker, Linux System Automation, Cron, Git</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```bash
+┌──[nandeesh@github]─[~]
+└─$ whoami
 
-#### 🛠️ Technology Stack Matrix
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,angular,react,nodejs,express,postgres,mysql,linux,bash,docker,git,postman,vscode" alt="Skills" />
-  </a>
-</p>
+Nandeesh Y R
+Senior Systems Engineer @ Infosys
+Application Security Enthusiast
+Full-Stack Software Engineer
+```
+
+I build **enterprise applications by day** and explore **security weaknesses by night**.
+
+My work sits at the intersection of **software engineering and cybersecurity** — building APIs, web applications and internal systems while thinking about how those same systems could be attacked, abused and hardened.
+
+```text
+Focus Areas
+────────────────────────────────────────────────────────────
+▸ Web Application Security
+▸ API Security & Authentication
+▸ Vulnerability Assessment
+▸ Penetration Testing
+▸ Secure Backend Engineering
+▸ Full-Stack Development
+▸ Linux & Automation
+```
+
+> **Build it. Test it. Break it. Secure it.**
 
 ---
 
-### ⚡ Operations Log (Experience)
+## `$ cat /etc/operator.conf`
 
 ```yaml
-01_EMPLOYER: Infosys Limited
-   DESIGNATION: Senior Systems Engineer
-   TIMELINE   : Sept 2022 — Present
-   HIGHLIGHTS :
-     - Engineered high-traffic enterprise banking apps using Angular + Spring Boot.
-     - Reduced API integration defects by 40% via automated interface validations.
-     - Created Bash/Cron operational scripts, reducing deployment effort by 50%.
-     - Developed internal mobile modules using React Native and Locofy UI pipelines.
+name: Nandeesh Y R
+role: Senior Systems Engineer
+company: Infosys
+experience: 3.5+ years
 
-02_INTERNSHIP: Virtually Testing Foundation
-   DESIGNATION: Penetration Testing Intern
-   TIMELINE   : Oct 2021 — Dec 2021
-   HIGHLIGHTS :
-     - Audited web targets against OWASP Top 10 security standards.
-     - Produced security assessment reports detailing mitigation steps.
+security:
+  focus:
+    - Web Application Security
+    - API Security
+    - Penetration Testing
+    - Vulnerability Assessment
+    - OWASP Top 10
 
-03_INTERNSHIP: NASSCOM + ISAC
-   DESIGNATION: Cybersecurity Research Intern
-   TIMELINE   : July 2021 — Oct 2021
-   HIGHLIGHTS :
-     - Ranked Top 20 State-Level in Capture The Flag (CTF) competition.
-     - Conducted vulnerability assessments on prototype financial services.
+engineering:
+  backend:
+    - Java
+    - Spring Boot
+    - Node.js
+    - Express
+  frontend:
+    - Angular
+    - React
+    - TypeScript
+    - JavaScript
+  databases:
+    - PostgreSQL
+    - MySQL
+  systems:
+    - Linux
+    - Bash
+    - Cron
+    - Docker
+    - Git
+
+current_mission:
+  - Build secure enterprise applications
+  - Improve offensive security skills
+  - Explore AI-assisted security tooling
 ```
 
 ---
 
-### 🛠️ Key Security & Software Projects
+# ⚔️ Security × Engineering
+
+<div align="center">
+
+|    🔴 Offensive Security   |    🔵 Defensive Engineering    |
+| :------------------------: | :----------------------------: |
+|   Web Application Testing  |     Secure API Development     |
+|        OWASP Top 10        | Authentication & Authorization |
+|         Burp Suite         |           JWT / RBAC           |
+|   Network Reconnaissance   |        REST Architecture       |
+|  Vulnerability Assessment  |     Secure Database Design     |
+| Linux Privilege Escalation |        Linux Automation        |
+
+</div>
+
+---
+
+## 🧰 Tech Arsenal
+
+### `LANGUAGES`
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,bash" />
+</p>
+
+### `BACKEND`
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### `FRONTEND`
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,sass" />
+</p>
+
+### `DATABASE • DEVOPS • SECURITY`
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,linux,docker,git,postman,vscode" />
+</p>
+
+---
+
+# 🛰️ Operations Log
+
+### `01 // INFOSYS`
+
+```text
+ROLE        Senior Systems Engineer
+PERIOD      Sept 2022 — Present
+DOMAIN      Enterprise Software Engineering
+```
+
+```diff
++ Developed enterprise banking applications using Angular & Spring Boot
++ Built and integrated REST APIs across enterprise application layers
++ Reduced API integration defects by ~40% through interface validation
++ Automated operational workflows using Bash & Cron
++ Reduced repetitive deployment activities by ~50%
++ Worked with React Native and low-code UI development workflows
+```
+
+---
+
+### `02 // VIRTUALLY TESTING FOUNDATION`
+
+```text
+ROLE        Penetration Testing Intern
+PERIOD      Oct 2021 — Dec 2021
+DOMAIN      Application Security
+```
+
+```diff
++ Performed web application security assessments
++ Tested applications against OWASP Top 10 attack categories
++ Investigated vulnerabilities and documented technical findings
++ Prepared security assessment reports with remediation guidance
+```
+
+---
+
+### `03 // NASSCOM + ISAC`
+
+```text
+ROLE        Cybersecurity Research Intern
+PERIOD      Jul 2021 — Oct 2021
+DOMAIN      Cybersecurity Research
+```
+
+```diff
++ Conducted vulnerability assessments on prototype financial applications
++ Participated in security research and attack analysis
++ Ranked among the Top 20 at a state-level Capture The Flag competition
+```
+
+---
+
+# 🧪 Projects Under the Microscope
 
 <details open>
-<summary><b>🛡️ Project 01: Vulnerability & Pentest Reporting System</b></summary>
+<summary><b>01 — Vulnerability & Penetration Testing Report System</b></summary>
+
 <br>
 
-> **Full Stack Vulnerability Management Platform**
-* **Tech Stack:** React, Node.js, TypeScript, PostgreSQL, JWT, jsPDF, Nodemailer
-* **Core Capabilities:** Role-Based Access Control (Admin / Pentester / Client), Analytics Dashboard, Automated Evidence Upload.
-* **Impact:** Reduced manual security report generation time by **70%**.
+### `Security Operations Platform`
+
+A full-stack vulnerability management and penetration-testing platform designed to move security reporting from spreadsheets and manual documents into a centralized workflow.
+
+**Architecture**
+
+```text
+React
+  │
+  ▼
+Node.js + Express + TypeScript
+  │
+  ├── JWT Authentication
+  ├── RBAC
+  ├── REST APIs
+  ├── Evidence Management
+  └── Automated Notifications
+  │
+  ▼
+PostgreSQL / Neon
+```
+
+**Capabilities**
+
+* Admin / Pentester / Client role separation
+* Project and vulnerability management
+* Web / Network / Cloud / Mobile / Configuration categories
+* Security evidence uploads
+* Risk and severity analytics
+* Automated PDF security reports
+* Email verification and password recovery
+* Pentester and client assignment workflows
+
+**Stack**
+
+`React` `Node.js` `Express` `TypeScript` `PostgreSQL` `JWT` `Nodemailer` `jsPDF`
+
+**Impact**
+
+> ⚡ Reduced manual security-report generation effort by approximately **70%**
+
+🌐 **Live:** https://vuln-pentest-frontend.onrender.com
+
 </details>
 
 <details>
-<summary><b>🤖 Project 02: AI Interactive Chatbot Engine</b></summary>
+<summary><b>02 — AI Interactive Chatbot</b></summary>
+
 <br>
 
-> **React + Gemini API Web Interface**
-* **Tech Stack:** React, Gemini Flash API, Tailwind, SPA Routing
-* **Core Capabilities:** Real-time stream parsing, Markdown UI rendering, secure API environment handling.
+### `Gemini-Powered React Application`
+
+A conversational AI interface built with React and the Gemini API.
+
+**Highlights**
+
+* Gemini API integration
+* Markdown response rendering
+* Code-block friendly responses
+* Typing/loading states
+* Model selection
+* SPA navigation
+* Environment-based API configuration
+* Responsive chat interface
+
+**Stack**
+
+`React` `Vite` `Gemini API` `JavaScript` `React Markdown`
+
+🌐 **Live:** https://reactwebcourse.netlify.app
+
 </details>
 
 <details>
-<summary><b>🏨 Project 03: Enterprise Hotel Management & Billing Platform</b></summary>
+<summary><b>03 — Enterprise Hotel Management & Billing System</b></summary>
+
 <br>
 
-> **Role-Based Financial & Management System**
-* **Tech Stack:** Angular, Angular Material, Spring Boot, MySQL, REST Services
-* **Core Capabilities:** Multi-tier authorization, automated billing generation, administrative telemetry.
+### `Role-Based Enterprise Application`
+
+A full-stack hotel management and billing platform developed around a Spring Boot backend and Angular frontend.
+
+**Features**
+
+* Authentication and authorization
+* Product and category management
+* User administration
+* Automated bill generation
+* Printable PDF invoices
+* REST API architecture
+* Angular Material interface
+
+**Stack**
+
+`Java` `Spring Boot` `Angular` `Angular Material` `MySQL` `REST`
+
 </details>
 
 <details>
-<summary><b>⚡ Project 04: Wireless EV Charging System</b></summary>
+<summary><b>04 — Wireless EV Charging System 🏆</b></summary>
+
 <br>
 
-> **🏆 Best Project Award Winner (Out of 40 Teams)**
-* **Tech Stack:** Embedded Systems, IoT Sensors, Wireless Power Transfer Architecture
-* **Impact:** Optimized power transfer efficiency across hardware prototype iterations.
+### `Award-Winning Engineering Project`
+
+A wireless electric vehicle charging prototype combining embedded systems, sensors and wireless power-transfer concepts.
+
+🏆 **Best Project Award — 1st among 40 teams**
+
+**Focus**
+
+* Wireless power transfer
+* Embedded hardware
+* IoT sensors
+* Power-transfer optimization
+* Hardware prototype iterations
+
 </details>
 
 ---
 
-### 📜 Accreditations & Certifications
+# 🛡️ Security Toolbox
 
-- `[CERT]` **Infosys Certified Ethical Hacker**
-- `[CERT]` **Infosys Certified Application Security Specialist**
-- `[CERT]` **Infosys Certified Security Testing Professional**
-- `[CERT]` **Cybrary Advanced Penetration Testing**
+```text
+RECON
+████████████████████░░  Reconnaissance & Enumeration
+
+WEB SECURITY
+█████████████████████░  OWASP / Web Testing
+
+API SECURITY
+████████████████████░░  REST / JWT / Authorization
+
+LINUX
+███████████████████░░░  Bash / Privilege Escalation
+
+REPORTING
+█████████████████████░  Vulnerability Documentation
+```
+
+### Frequently explored
+
+`Burp Suite` `OWASP` `Linux` `Bash` `JWT` `REST APIs` `Postman`
 
 ---
+
+# 📊 GitHub Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nandeeshyr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&rank_icon=github" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandeeshyr&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&langs_count=8" width="42%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=nandeeshyr&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8AFFB8" width="90%" />
+
+</div>
+
+---
+
+# 📜 Certifications
+
+```text
+[01] Infosys Certified Ethical Hacker
+[02] Infosys Certified Application Security Specialist
+[03] Infosys Certified Security Testing Professional
+[04] Cybrary Advanced Penetration Testing
+```
+
+---
+
+# 🎓 Engineering Background
+
+```text
+Bachelor of Engineering — Electronics & Communication Engineering
+VTU
+CGPA: 8.0 / 10
+
+Relevant Security / Computing Coursework
+──────────────────────────────────────
+• Cryptography
+• Computer Networks
+• Network Security
+• Data Structures & Algorithms
+```
+
+---
+
+# 🔍 What I'm Exploring
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   WEB SECURITY      ████████████████████░               │
+│   API SECURITY      ███████████████████░░               │
+│   PENTESTING        ███████████████████░░               │
+│   CLOUD SECURITY    ███████████████░░░░░               │
+│   AI SECURITY       ██████████████░░░░░░               │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+Currently interested in the overlap between:
+
+**Application Security × Software Engineering × AI**
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/nandeeshyr">
+<img src="https://img.shields.io/badge/GitHub-nandeeshyr-0D1117?style=for-the-badge&logo=github&logoColor=00FF66" />
+</a>
+
+<a href="https://linkedin.com/in/nandeeshyr">
+<img src="https://img.shields.io/badge/LinkedIn-nandeeshyr-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" />
+</a>
+
+<a href="mailto:nandeeshyr@gmail.com">
+<img src="https://img.shields.io/badge/Email-nandeeshyr-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF66" />
+</a>
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```text
-+-----------------------------------------------------------------------------+
-| ACTIVE TASK: Optimizing application codebases & auditing security surfaces  |
-| OBJECTIVE  : BUILD SECURE SYSTEMS. BREAK INSECURE ONES. REPEAT.             |
-+-----------------------------------------------------------------------------+
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "The best security engineer understands both sides:       ║
+║    how the system was built and how it can be broken."      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=80&section=footer" width="100%" alt="Footer Banner"/>
+### `SYSTEM STATUS: ONLINE`
+
+**BUILD SECURE SYSTEMS.
+BREAK INSECURE ONES.
+LEARN FROM BOTH.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=100&section=footer" width="100%" />
 
 </div>
