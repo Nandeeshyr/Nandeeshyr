@@ -2,12 +2,12 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com)
-![Followers](https://shields.io)
-![Stars](https://shields.io)
-![Status](https://shields.io)
-![Threat](https://shields.io)
-![Linux](https://shields.io)
+<img src="https://komarev.com" alt="Profile Views"/>
+<img src="https://shields.io" alt="Followers"/>
+<img src="https://shields.io" alt="Stars"/>
+<img src="https://shields.io" alt="Status"/>
+<img src="https://shields.io" alt="Threat"/>
+<img src="https://shields.io" alt="Linux"/>
 
 </div>
 
@@ -201,7 +201,7 @@ Automation:
 
 ## Core Tech & Frameworks
 <p align="left">
-<img src="https://skillicons.dev"/>
+<img src="https://skillicons.dev" alt="Arsenal Icons"/>
 </p>
 
 ## Security Stack
@@ -250,20 +250,20 @@ C Programming | Verilog | Satellite Communication | Assembly Language
 
 <div align="center">
 
-<img height="180em" src="https://vercel.app"/>
-<img height="180em" src="https://vercel.app"/>
+<img height="180em" src="https://vercel.app" alt="GitHub Stats"/>
+<img height="180em" src="https://vercel.app" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://herokuapp.com"/>
+<img src="https://herokuapp.com" alt="Streak Stats"/>
 
 <br><br>
 
-<img src="https://vercel.app"/>
+<img src="https://vercel.app" alt="Activity Graph"/>
 
 <br><br>
 
-<img src="https://vercel.app"/>
+<img src="https://vercel.app" alt="Trophies"/>
 
 </div>
 
