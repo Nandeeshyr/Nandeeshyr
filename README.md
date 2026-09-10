@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com" alt="Profile Views"/>
 <img src="https://shields.io" alt="Followers"/>
 <img src="https://shields.io" alt="Stars"/>
 <img src="https://shields.io" alt="Status"/>
@@ -243,39 +242,6 @@ C Programming | Verilog | Satellite Communication | Assembly Language
 | **English** | Professional |
 | **Hindi** | Working |
 | **German** | A1 Beginner |
-
----
-
-# 📊 System Telemetry
-
-<div align="center">
-
-<img height="180em" src="https://vercel.app" alt="GitHub Stats"/>
-<img height="180em" src="https://vercel.app" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://herokuapp.com" alt="Streak Stats"/>
-
-<br><br>
-
-<img src="https://vercel.app" alt="Activity Graph"/>
-
-<br><br>
-
-<img src="https://vercel.app" alt="Trophies"/>
-
-</div>
-
----
-
-# 🐍 Contribution Matrix
-
-<div align="center">
-
-<img src="https://githubusercontent.com" alt="Snake animation"/>
-
-</div>
 
 ---
 
