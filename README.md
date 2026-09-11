@@ -214,7 +214,7 @@ Security-Aware Development
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,rest" />
 </p>
 
-`Java` `Spring Boot` `Node.js` `Express.js` `REST APIs`
+`Spring Boot` `Node.js` `Express.js` `REST APIs`
 
 ### `DATABASE • SYSTEMS • TOOLS`
 
