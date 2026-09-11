@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" />
 </a>
 &nbsp;
-<a href="mailto:nandeeshyr@gmail.com">
+<a href="mailto:nandeeshyr20171@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF66" />
 </a>
 &nbsp;
-<a href="https://tryhackme.com">
+<a href="https://tryhackme.com/p/Nandeeshyr?utm_campaign=social_share&utm_medium=social&utm_content=profile&utm_source=copy&sharerId=5fec50d5175c4d68e0639b6a">
 <img src="https://img.shields.io/badge/TRYHACKME-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF66" />
 </a>
 
@@ -437,7 +437,7 @@ Currently interested in the overlap between:
 <img src="https://img.shields.io/badge/LinkedIn-nandeeshyr-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" />
 </a>
 
-<a href="mailto:nandeeshyr@gmail.com">
+<a href="mailto:nandeeshyr20171@gmail.com">
 <img src="https://img.shields.io/badge/Email-nandeeshyr-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF66" />
 </a>
 
