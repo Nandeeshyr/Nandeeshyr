@@ -198,7 +198,7 @@ Security-Aware Development
 <img src="https://skillicons.dev/icons?i=c,java,js,ts,bash" />
 </p>
 
-`C Programming` `Java` `JavaScript` `TypeScript` `Bash Scripting`
+`C Programming` `Java` `JavaScript` `TypeScript` `BashScripting`
 
 ### `FRONTEND DEVELOPMENT`
 
@@ -206,7 +206,7 @@ Security-Aware Development
 <img src="https://skillicons.dev/icons?i=angular,react,reactnative,html,css,sass" />
 </p>
 
-`Angular` `React` `React Native` `HTML` `CSS` `SCSS`
+`Angular` `React` `ReactNative` `HTML` `CSS` `SCSS`
 
 ### `BACKEND DEVELOPMENT`
 
@@ -222,7 +222,7 @@ Security-Aware Development
 <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,docker,git,postman,androidstudio,azure,vscode" />
 </p>
 
-`PostgreSQL` `MySQL` `Linux` `Docker` `Git` `Postman` `AndroidStudio` `Azure` `VSCode` `Bash`
+`PostgreSQL` `MySQL` `Linux` `Docker` `Git` `Postman` `AndroidStudio` `Azure` `VSCode`
 
 ---
 
