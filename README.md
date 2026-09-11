@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&height=250&color=000000&text=NANDEESH%20Y%20R&fontColor=00FF66&animation=twinkling&fontSize=50&fontAlignY=45&rotate=0&reversal=false&fontAlign=50&desc=ENGINEER%20%7C%20SECURITY%20%7C%20BUILDER%20%7C%20%7C&descAlignY=60&descSize=17&descAlign=50&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=egg&height=250&color=000000&text=NANDEESH%20Y%20R&fontColor=00FF66&animation=twinkling&fontSize=50&fontAlignY=45&rotate=0&reversal=false&fontAlign=50&desc=CYBERSECURITY%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=60&descSize=17&descAlign=50&section=header" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1300&color=00FF66&center=true&vCenter=true&width=900&lines=Senior+Systems+Engineer+%40+Infosys;Application+Security+%7C+Penetration+Testing;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;I+Build+Systems+With+Security+In+Mind;I+Break+Systems+To+Understand+Them" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1300&color=00FF66&center=true&vCenter=true&width=900&lines=Senior+Systems+Engineer+%40+Infosys;Cybersecurity+%7C+Penetration+Testing;Frontend+Development+%7C+Angular+%7C+React;Backend+Development+%7C+Java+%7C+Spring+Boot+%7C+Node.js;Application+Security+%7C+API+Security" alt="Typing SVG" />
 
 <br><br>
 
@@ -36,33 +36,36 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│ USER       : nandeesh                                          │
-│ ROLE       : Senior Systems Engineer                           │
-│ COMPANY    : Infosys                                           │
-│ DOMAIN     : Software Engineering + Application Security      │
-│ EXPERIENCE : 3.5+ Years                                       │
-│ STATUS     : BUILDING / TESTING / LEARNING                    │
+│ USER       : nandeesh                                         │
+│ TITLE      : Senior Systems Engineer                          │
+│ COMPANY    : Infosys                                          │
+│ EXPERIENCE : 4+ Years                                        │
+│ PRIMARY    : Cybersecurity                                    │
+│ SECONDARY  : Frontend & Backend Development                   │
+│ STATUS     : ACTIVE                                           │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-I am a **Senior Systems Engineer and security-focused developer** working at the intersection of **enterprise software engineering and cybersecurity**.
+I am a **Senior Systems Engineer at Infosys** with **4+ years of professional experience** in enterprise application development, along with hands-on experience in **cybersecurity, penetration testing and vulnerability assessment**.
 
-I build web applications, APIs and internal platforms with technologies such as **Java, Spring Boot, Angular, React, Node.js and PostgreSQL** — while continuously exploring how those systems can be **tested, attacked, monitored and hardened**.
+My technical focus spans **web application security, API security, frontend development and backend development**.
+
+I work primarily with **Java, Spring Boot, Angular, React, Node.js, TypeScript, PostgreSQL and MySQL**, while applying security principles to the applications and APIs I develop and assess.
 
 ```text
-PRIMARY INTERESTS
+PRIMARY AREAS
 ─────────────────────────────────────────────────────────────
-[01] Web Application Security
-[02] API Security
-[03] Vulnerability Assessment
-[04] Penetration Testing
-[05] Secure Backend Engineering
-[06] Linux & Automation
-[07] Full-Stack Development
-[08] Security + AI
+[01] Cybersecurity
+[02] Penetration Testing
+[03] Web Application Security
+[04] API Security
+[05] Frontend Development
+[06] Backend Development
+[07] Linux & Bash Automation
+[08] REST API Development
 ```
 
-> **Build → Test → Break → Harden → Repeat**
+> **Develop applications. Assess security. Improve both.**
 
 ---
 
@@ -71,53 +74,62 @@ PRIMARY INTERESTS
 ```yaml
 operator:
   name: Nandeesh Y R
-  role: Senior Systems Engineer
+  title: Senior Systems Engineer
   company: Infosys
-  experience: 3.5+ years
+  experience: 4+ years
 
-security:
-  application_security: true
-  penetration_testing: true
-  vulnerability_assessment: true
-  api_security: true
-  web_security: true
-  owasp: true
+cybersecurity:
+  - Web Application Security
+  - API Security
+  - Penetration Testing
+  - Vulnerability Assessment
+  - OWASP Top 10
+  - Security Testing
+  - Security Reporting
 
-engineering:
-  backend:
-    - Java
-    - Spring Boot
-    - Node.js
-    - Express.js
+frontend_development:
+  - Angular
+  - React
+  - TypeScript
+  - JavaScript
+  - HTML
+  - CSS
+  - SCSS
 
-  frontend:
-    - Angular
-    - React
-    - TypeScript
-    - JavaScript
+backend_development:
+  - Java
+  - Spring Boot
+  - Node.js
+  - Express.js
+  - REST APIs
 
-  database:
-    - PostgreSQL
-    - MySQL
+databases:
+  - PostgreSQL
+  - MySQL
 
-  systems:
-    - Linux
-    - Bash
-    - Cron
-    - Docker
-    - Git
+systems_tools:
+  - Linux
+  - Bash
+  - Cron
+  - Docker
+  - Git
+  - Postman
+
+additional:
+  - React Native
+  - Wavemaker
 
 current_focus:
   - Application Security
   - API Security
   - Penetration Testing
-  - Secure Software Engineering
+  - Secure Application Development
   - AI-assisted Security Tooling
 ```
 
 ---
 
-# `01 // SECURITY + ENGINEERING`
+# `01 // CYBERSECURITY`
 
 <div align="center">
 
@@ -125,7 +137,7 @@ current_focus:
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 OFFENSIVE
+### 🔴 SECURITY TESTING
 
 ```text
 Web Application Testing
@@ -135,7 +147,7 @@ Burp Suite
 Reconnaissance
 Vulnerability Assessment
 Authentication Testing
-Linux Privilege Escalation
+Security Testing
 Security Reporting
 ```
 
@@ -143,18 +155,17 @@ Security Reporting
 
 <td width="50%" valign="top">
 
-### 🔵 DEFENSIVE
+### 🔵 APPLICATION SECURITY
 
 ```text
-Secure API Development
-JWT / RBAC
-Authentication
+JWT Authentication
+Role-Based Access Control
+REST API Security
 Authorization
-REST Architecture
-Backend Security
-Database Security
-Linux Automation
-Secure Application Design
+Input Validation
+Secure API Development
+Application Hardening
+Security-Aware Development
 ```
 
 </td>
@@ -165,86 +176,87 @@ Secure Application Design
 
 ---
 
-# `02 // TECH STACK`
+# `02 // DEVELOPMENT`
 
-### `LANGUAGES`
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,bash" />
-</p>
-
-### `BACKEND`
+### `FRONTEND DEVELOPMENT`
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,sass,ts,js" />
 </p>
 
-### `FRONTEND`
+`Angular` `React` `TypeScript` `JavaScript` `HTML` `CSS` `SCSS`
+
+### `BACKEND DEVELOPMENT`
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,react,html,css,sass" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
-### `DATABASE • DEVOPS • TOOLS`
+`Java` `Spring Boot` `Node.js` `Express.js` `REST APIs`
+
+### `DATABASE • SYSTEMS • TOOLS`
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,linux,docker,git,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,linux,bash,docker,git,postman,vscode" />
 </p>
+
+`PostgreSQL` `MySQL` `Linux` `Bash` `Docker` `Git` `Postman`
 
 ---
 
-# `03 // FIELD EXPERIENCE`
+# `03 // PROFESSIONAL EXPERIENCE`
 
-## `INFOSYS`
+## `01 // INFOSYS`
 
 ```text
-┌─ ROLE
+┌─ TITLE
 │  Senior Systems Engineer
 │
 ├─ PERIOD
 │  Sept 2022 — Present
 │
 └─ DOMAIN
-   Enterprise Software Engineering
+   Enterprise Application Development
 ```
 
 ```diff
-+ Developed enterprise banking applications using Angular & Spring Boot
-+ Built and integrated REST APIs across enterprise application layers
++ Developed enterprise banking applications using Angular and Spring Boot
++ Developed and integrated REST APIs across application layers
 + Reduced API integration defects by ~40% through interface validation
-+ Automated operational workflows using Bash & Cron
++ Automated operational tasks using Bash and Cron
 + Reduced repetitive deployment effort by ~50%
-+ Worked with React Native and low-code UI development workflows
++ Worked with React Native for internal mobile application modules
++ Worked with Wavemaker-based application development workflows
 ```
 
 ---
 
-## `VIRTUALLY TESTING FOUNDATION`
+## `02 // VIRTUALLY TESTING FOUNDATION`
 
 ```text
-┌─ ROLE
+┌─ TITLE
 │  Penetration Testing Intern
 │
 ├─ PERIOD
 │  Oct 2021 — Dec 2021
 │
 └─ DOMAIN
-   Application Security
+   Web Application Security
 ```
 
 ```diff
 + Performed web application security assessments
-+ Tested applications against OWASP Top 10 categories
-+ Investigated and documented security vulnerabilities
-+ Prepared assessment reports with remediation recommendations
++ Tested applications against OWASP Top 10 security categories
++ Identified and documented application vulnerabilities
++ Prepared penetration testing reports with remediation recommendations
 ```
 
 ---
 
-## `NASSCOM + ISAC`
+## `03 // NASSCOM + ISAC`
 
 ```text
-┌─ ROLE
+┌─ TITLE
 │  Cybersecurity Research Intern
 │
 ├─ PERIOD
@@ -256,131 +268,151 @@ Secure Application Design
 
 ```diff
 + Conducted vulnerability assessments on prototype financial applications
-+ Performed security research and attack analysis
-+ Ranked among the Top 20 at a state-level CTF competition
++ Participated in cybersecurity research and attack analysis
++ Ranked among the Top 20 in a state-level Capture The Flag competition
 ```
 
 ---
 
-# `04 // PROJECT LAB`
+# `04 // SECURITY PROJECTS`
 
-### 🛡️ `VULNERABILITY & PENTEST REPORTING SYSTEM`
+## 🛡️ `VULNERABILITY & PENETRATION TESTING REPORT SYSTEM`
 
 <details open>
-<summary><b>Security Operations Platform</b></summary>
+<summary><b>Full-Stack Vulnerability Management Platform</b></summary>
 
 <br>
 
-A full-stack platform designed to streamline the lifecycle of **vulnerability assessment, penetration testing and security reporting**.
+A web-based platform for managing **penetration testing projects, vulnerabilities, evidence and security reports**.
 
 ### Architecture
 
 ```text
                   ┌───────────────────┐
                   │      React        │
-                  │    Frontend       │
+                  │     Frontend      │
                   └─────────┬─────────┘
                             │
                             ▼
-              ┌────────────────────────────┐
-              │ Node.js + Express + TS     │
-              │                            │
-              │ JWT Authentication         │
-              │ Role-Based Access Control  │
-              │ REST APIs                  │
-              │ Evidence Management        │
-              │ Notifications              │
-              └─────────────┬──────────────┘
-                            │
-                            ▼
+             ┌─────────────────────────────┐
+             │ Node.js + Express + TS      │
+             │                             │
+             │ JWT Authentication          │
+             │ Role-Based Access Control   │
+             │ REST APIs                   │
+             │ Evidence Management         │
+             │ Analytics                   │
+             │ Email Notifications         │
+             └─────────────┬───────────────┘
+                           │
+                           ▼
                   ┌───────────────────┐
                   │ PostgreSQL / Neon │
                   └───────────────────┘
 ```
 
-### Core Capabilities
+### Roles
 
 ```text
-✓ Admin / Pentester / Client roles
-✓ Project & vulnerability management
-✓ Web / Network / Cloud / Mobile testing categories
-✓ Evidence upload and management
-✓ Severity & risk analytics
-✓ Automated security report generation
-✓ Email verification & password recovery
-✓ Client / Pentester assignment workflows
+ADMIN
+  └── Platform administration
+
+PENTESTER
+  └── Security testing & vulnerability management
+
+CLIENT
+  └── Project visibility & security reports
 ```
 
-### Stack
+### Features
+
+```text
+✓ Project management
+✓ Vulnerability management
+✓ Web / Network / Cloud / Mobile / Configuration categories
+✓ Evidence upload
+✓ Severity & risk analytics
+✓ Automated PDF report generation
+✓ Email verification
+✓ Password reset
+✓ Client / Pentester assignment
+✓ JWT authentication
+✓ Role-based access control
+```
+
+### Technology
 
 `React` `Node.js` `Express.js` `TypeScript` `PostgreSQL` `JWT` `Nodemailer` `jsPDF`
 
-### Impact
+### Result
 
-> ⚡ **~70% reduction in manual security-report generation effort**
+> ⚡ **Reduced manual security-report generation effort by approximately 70%**
 
-🌐 **Live Application:**
+🌐 **Live:**
 https://vuln-pentest-frontend.onrender.com
 
 </details>
 
 ---
 
-### 🤖 `AI INTERACTIVE CHATBOT`
+# `05 // DEVELOPMENT PROJECTS`
+
+## 🤖 `AI INTERACTIVE CHATBOT`
 
 <details>
-<summary><b>Gemini-powered React Application</b></summary>
+<summary><b>React + Gemini API Application</b></summary>
 
 <br>
 
-A responsive AI chat interface built around the **Gemini API**, with an emphasis on clean interaction and developer-friendly responses.
+A web-based conversational AI application built using **React, Vite and the Gemini API**.
 
 ```text
 FEATURES
 ──────────────────────────────────────
 ✓ Gemini API integration
-✓ Markdown rendering
+✓ Markdown response rendering
 ✓ Code-friendly responses
 ✓ Loading / typing states
 ✓ Model selection
 ✓ SPA routing
 ✓ Environment-based API configuration
-✓ Responsive interface
+✓ Responsive chat interface
 ```
 
-### Stack
+### Technology
 
 `React` `Vite` `Gemini API` `JavaScript` `React Markdown`
 
-🌐 **Live Application:**
+🌐 **Live:**
 https://reactwebcourse.netlify.app
 
 </details>
 
 ---
 
-### 🏨 `HOTEL MANAGEMENT & BILLING SYSTEM`
+## 🏨 `HOTEL MANAGEMENT & BILLING SYSTEM`
 
 <details>
-<summary><b>Role-Based Enterprise Application</b></summary>
+<summary><b>Role-Based Web Application</b></summary>
 
 <br>
 
-A full-stack hotel management platform covering administration, product management and automated billing.
+A full-stack hotel management and billing application developed using **Spring Boot and Angular**.
 
 ```text
 FEATURES
 ──────────────────────────────────────
 ✓ Authentication & authorization
 ✓ User management
-✓ Product / category management
-✓ Automated billing
+✓ Product management
+✓ Category management
+✓ Automated bill generation
 ✓ Printable PDF invoices
 ✓ REST API architecture
-✓ Angular Material UI
+✓ Angular Material interface
 ```
 
-### Stack
+### Technology
 
 `Java` `Spring Boot` `Angular` `Angular Material` `MySQL` `REST`
 
@@ -388,69 +420,69 @@ FEATURES
 
 ---
 
-### ⚡ `WIRELESS EV CHARGING SYSTEM` 🏆
+## ⚡ `WIRELESS EV CHARGING SYSTEM` 🏆
 
 <details>
-<summary><b>Award-Winning Engineering Project</b></summary>
+<summary><b>Award-Winning Academic Project</b></summary>
 
 <br>
 
 A wireless EV charging prototype combining **embedded systems, IoT sensors and wireless power transfer**.
 
 ```text
-RESULT
+ACHIEVEMENT
 ──────────────────────────────────────
 🏆 Best Project Award
 🏆 1st among 40 teams
 ```
 
-### Focus
+### Technology / Concepts
 
-`Embedded Systems` `IoT` `Wireless Power Transfer` `Sensors`
+`Embedded Systems` `IoT Sensors` `Wireless Power Transfer`
 
 </details>
 
 ---
 
-# `05 // SECURITY TOOLBOX`
+# `06 // SECURITY TOOLBOX`
 
 ```text
-RECON / ENUMERATION
-████████████████████░░
-
 WEB APPLICATION SECURITY
 █████████████████████░
 
 API SECURITY
 ████████████████████░░
 
-LINUX / BASH
+PENETRATION TESTING
 ███████████████████░░░
 
-VULNERABILITY REPORTING
-█████████████████████░
+VULNERABILITY ASSESSMENT
+████████████████████░░
+
+LINUX / BASH
+███████████████████░░░
 ```
 
-### `TOOLS I WORK WITH`
+### `SECURITY TECHNOLOGIES`
 
-`Burp Suite` `OWASP` `Postman` `Linux` `Bash` `Git`
+`Burp Suite` `OWASP` `Postman` `Linux` `Bash` `JWT` `REST APIs`
 
 ---
 
-# `06 // CERTIFICATIONS`
+# `07 // CERTIFICATIONS`
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │ [01] Infosys Certified Ethical Hacker                    │
 │ [02] Infosys Certified Application Security Specialist  │
 │ [03] Infosys Certified Security Testing Professional    │
-│ [04] Cybrary Advanced Penetration Testing                │
+│ [04] Cybrary Advanced Penetration Testing               │
 └──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `07 // ENGINEERING BACKGROUND`
+# `08 // EDUCATION`
 
 ```text
 Bachelor of Engineering
@@ -470,34 +502,39 @@ Data Structures & Algorithms
 
 ---
 
-# `08 // CURRENT MISSION`
+# `09 // CURRENT FOCUS`
 
 ```text
-TARGET
-─────────────────────────────────────────────────────
+CYBERSECURITY
+██████████████████████░
 
-[██████████████████████░░] Application Security
+APPLICATION SECURITY
+█████████████████████░░
 
-[█████████████████████░░░] API Security
+API SECURITY
+████████████████████░░
 
-[████████████████████░░░░] Penetration Testing
+PENETRATION TESTING
+███████████████████░░░
 
-[████████████████░░░░░░░░] Cloud Security
+FRONTEND DEVELOPMENT
+██████████████████░░░░
 
-[██████████████░░░░░░░░░░] AI Security
+BACKEND DEVELOPMENT
+██████████████████░░░░
 ```
 
-### `Researching the intersection of`
+### `FOCUS`
 
 <center>
 
-**APPLICATION SECURITY × SOFTWARE ENGINEERING × AI**
+**CYBERSECURITY × APPLICATION SECURITY × SOFTWARE DEVELOPMENT**
 
 </center>
 
 ---
 
-# `09 // GITHUB TELEMETRY`
+# `10 // GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -513,31 +550,23 @@ TARGET
 
 ---
 
-# `10 // TRYHACKME`
+# `11 // TRYHACKME`
 
 <div align="center">
 
 <a href="https://tryhackme.com/p/Nandeeshyr?utm_campaign=social_share&utm_medium=social&utm_content=profile&utm_source=copy">
 
-<img src="https://img.shields.io/badge/OPEN%20MY%20TRYHACKME%20PROFILE-00FF66?style=for-the-badge&logo=tryhackme&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/OPEN%20TRYHACKME%20PROFILE-00FF66?style=for-the-badge&logo=tryhackme&logoColor=0D1117&labelColor=0D1117" />
 
 </a>
 
 <br><br>
 
-```text
-┌──────────────────────────────────────────────┐
-│   OFFENSIVE SECURITY TRAINING                 │
-│                                              │
-│   Learn → Enumerate → Exploit → Report       │
-└──────────────────────────────────────────────┘
-```
-
 </div>
 
 ---
 
-# `11 // CONNECT`
+# `12 // CONNECT`
 
 <div align="center">
 
@@ -563,12 +592,10 @@ TARGET
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║  SYSTEM STATUS : ONLINE                                   ║
-║  SECURITY MODE : ACTIVE                                   ║
-║  BUILD MODE    : ON                                      ║
+║  PRIMARY ROLE  : CYBERSECURITY                            ║
+║  DEVELOPMENT   : FRONTEND + BACKEND                       ║
 ║                                                           ║
-║  BUILD SECURE SYSTEMS.                                    ║
-║  BREAK INSECURE ONES.                                     ║
-║  LEARN FROM BOTH.                                         ║
+║  DEVELOP. TEST. SECURE.                                   ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
