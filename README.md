@@ -559,11 +559,6 @@ BACKEND DEVELOPMENT
 # `10 // GITHUB TELEMETRY`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nandeeshyr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandeeshyr&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&langs_count=8" width="42%" />
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=nandeeshyr&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8AFFB8" width="90%" />
