@@ -36,13 +36,13 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│ USER       : nandeesh                                         │
-│ TITLE      : Senior Systems Engineer                          │
-│ COMPANY    : Infosys                                          │
+│ USER       : nandeesh                                        │
+│ TITLE      : Senior Systems Engineer                         │
+│ COMPANY    : Infosys                                         │
 │ EXPERIENCE : 4+ Years                                        │
-│ PRIMARY    : Cybersecurity                                    │
-│ SECONDARY  : Frontend & Backend Development                   │
-│ STATUS     : ACTIVE                                           │
+│ PRIMARY    : Cybersecurity                                   │
+│ SECONDARY  : Full-Stack Development                          │
+│ STATUS     : ACTIVE                                          │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -83,13 +83,17 @@ cybersecurity:
   - API Security
   - Penetration Testing
   - Vulnerability Assessment
+  - Network Security
   - OWASP Top 10
   - Security Testing
   - Security Reporting
+  - Network Scanning
+  - Packet Analysis
 
 frontend_development:
   - Angular
   - React
+  - React Native
   - TypeScript
   - JavaScript
   - HTML
@@ -103,6 +107,13 @@ backend_development:
   - Express.js
   - REST APIs
 
+programming:
+  - C
+  - Java
+  - JavaScript
+  - TypeScript
+  - Bash
+
 databases:
   - PostgreSQL
   - MySQL
@@ -114,10 +125,13 @@ systems_tools:
   - Docker
   - Git
   - Postman
+  - Android Studio
+  - Azure
 
 additional:
-  - React Native
   - Wavemaker
+  - Locofy.ai
+  - AI4UI
 
 current_focus:
   - Application Security
@@ -178,18 +192,26 @@ Security-Aware Development
 
 # `02 // DEVELOPMENT`
 
+### `LANGUAGES`
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,js,ts,bash" />
+</p>
+
+`C Programming` `Java` `JavaScript` `TypeScript` `Bash Scripting`
+
 ### `FRONTEND DEVELOPMENT`
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,react,html,css,sass,ts,js" />
+<img src="https://skillicons.dev/icons?i=angular,react,reactnative,html,css,sass" />
 </p>
 
-`Angular` `React` `TypeScript` `JavaScript` `HTML` `CSS` `SCSS`
+`Angular` `React` `React Native` `HTML` `CSS` `SCSS`
 
 ### `BACKEND DEVELOPMENT`
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,rest" />
 </p>
 
 `Java` `Spring Boot` `Node.js` `Express.js` `REST APIs`
@@ -197,10 +219,10 @@ Security-Aware Development
 ### `DATABASE • SYSTEMS • TOOLS`
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,linux,bash,docker,git,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,linux,docker,git,postman,androidstudio,azure,vscode" />
 </p>
 
-`PostgreSQL` `MySQL` `Linux` `Bash` `Docker` `Git` `Postman`
+`PostgreSQL` `MySQL` `Linux` `Docker` `Git` `Postman` `AndroidStudio` `Azure` `VSCode` `Bash`
 
 ---
 
@@ -474,9 +496,9 @@ LINUX / BASH
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │ [01] Infosys Certified Ethical Hacker                    │
-│ [02] Infosys Certified Application Security Specialist  │
-│ [03] Infosys Certified Security Testing Professional    │
-│ [04] Cybrary Advanced Penetration Testing               │
+│ [02] Infosys Certified Application Security Specialist   │
+│ [03] Infosys Certified Security Testing Professional     │
+│ [04] Cybrary Advanced Penetration Testing                │
 └──────────────────────────────────────────────────────────┘
 ```
 
